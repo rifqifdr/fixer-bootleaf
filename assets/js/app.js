@@ -197,8 +197,13 @@ map = L.map("map", {
   sleepTime: 10,
   wakeTime: 10,
   sleepNote: true,
-  hoverToWake: true
+  fullscreenControl: true,
+  hoverToWake: true,
+  tap: true
 });
+
+
+
 
 
 
@@ -210,6 +215,7 @@ map.setMaxBounds([
   [-13.400, 91.3],
   [12.469, 145.415]
 ]);
+
 
 /* Layer control listeners that allow for a single markerClusters layer */
 map.on("overlayadd", function(e) {
@@ -254,6 +260,7 @@ map.addControl(attributionControl);
 var zoomControl = L.control.zoom({
   position: "bottomright"
 }).addTo(map);
+
 
 /* GPS enabled geolocation control set to follow the user's location */
 var locateControl = L.control.locate({
@@ -429,6 +436,5 @@ if (!L.Browser.touch) {
 } else {
   L.DomEvent.disableClickPropagation(container);
 }
-
-
+//fuuulscreen
 
