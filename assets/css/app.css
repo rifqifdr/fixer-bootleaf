@@ -74,7 +74,7 @@ input[type="radio"], input[type="checkbox"] {
 .sidebar-table {
   position: absolute;
   width: 100%;
-  top: 103px;
+  top: 140px;
   bottom: 0px;
   overflow: auto;
 }
@@ -255,6 +255,11 @@ img {
   padding-left: 15px;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.panel-title {
+  line-height: 1.5em;
+  font-weight: 500;
 }
 
 .form-control:focus {
