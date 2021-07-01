@@ -250,7 +250,14 @@ img {
   width: 100%;
 }
 
+.modal-body-website {
+  padding: 15px;
+  display: flex;
+}
+
 .modal-body {
+  height: 240px;
+  overflow: auto;
   padding-right: 15px;
   padding-left: 15px;
   padding-top: 10px;
@@ -285,4 +292,24 @@ img {
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #f36f21; 
+}
+
+#feature-info {
+  margin-right: 10px;
+}
+
+#feature-info-instagram {
+  margin-right: 10px;
+}
+
+#feature-info-facebook {
+  margin-right: 10px;
+}
+
+#feature-info-youtube {
+  margin-right: 10px;
+}
+
+.modal-title {
+  color: #f36f21;
 }

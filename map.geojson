@@ -1,0 +1,889 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Ace House Collective",
+        "image": "https://acehousecollective.com/",
+        "url": "https://dl.airtable.com/.attachments/315fd9ad643e5dcf0fc29daeb55c3a0e/ce9437ee/AceHouse.jpg",
+        "address": "Yogyakarta",
+        "description": "Ace House Collective adalah kolektif seniman yang bekerja dengan komunitas dan jejaringnya dalam mengelola ruang milik mereka. Ruang ini berfungsi sebagai laboratorium yang mempertemukan artistik seni dengan disiplin ilmu lain dengan pendekatan budaya populer. Ace House Collective berupaya mengembangkan dan memberikan kontribusi bagi praktik-praktik seni terkini dengan menyediakan platform untuk produksi, dialog dan kolaborasi melalui forum-forum pertemuan, pertukaran dan perakitan ide. Hingga kini, ada sepuluh anggota Ace House Collective.   Kolektif ini memetakan sumber daya mereka di dalam dua hal, yakni modalitas kultural dan sosial. Modalitas kultural adalah kapasitas serta kemampuan artistik dan non-artistik masing-masing anggota yang dimiliki masing-masing individu/anggota. Sedangkan modalitas sosial yakni jangkauan relasi atau jejaring dari individu/anggota serta kelompok itu sendiri. Selain keduanya, mereka juga memiliki sumber daya bangunan/ruang fisik dan arsip/dokumentasi kerja. Kini, Ace House Collective sedang mengembangkan usaha mandiri, yakni penyediaan jasa artistik yang tepat untuk industri spesifik di samping sudah menjalankan usaha penjualan karya seni dan merchandise serta penyewaan akomodasi untuk pekerja seni-budaya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36518,
+          -7.820461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Bergerak.etc",
+        "image": "http://bergerak.co/",
+        "url": "https://dl.airtable.com/.attachments/4b397720d10c4bba71841d03c0ab6295/6597d6e8/Bergerak.etc.jpg",
+        "address": "Kalimantan Timur",
+        "description": "Merupakan sebuah kolektif lintas bidang lintas genre yang bergerak berdasarkan semangat kolaborasi, dengan mengkolaborasikan para pelaku industri kreatif lintas bidang lintas genre yang ada di balikpapan untuk membuat sebuah pergerakan yang terkoneksi dan lebih besar lagi, Bergerak.etc mencoba mengubah stigma tentang kota balikpapan sebagai kota industri yang dimana bekerja adalah menjadi seorang karyawan sebuah instansi pemerintahan atau swasta menjadi kota industri kreatif yang dimana para pelaku industri kreatif dapat bangga dengan pekerjaannya dan di kenal serta mendapat pengakuan di kotanya sendiri.\n\nInstagram: @bergerak.etc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.851696,
+          -1.247553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Bilik Bersenyawa",
+        "image": "https://www.bilikbersenyawa.com/",
+        "url": "https://dl.airtable.com/.attachments/7e820ce5accccd6ac5c81a525e8ee7d8/d162d538/BilikBersenyawa.jpg",
+        "address": "Kalimantan Selatan",
+        "description": "Gerakan kolektif sebagai wadah ekspresi, eksplorasi dan belajar bersama bagi teman-teman penggiat industri kreatif di Banjarmasin dan sekitarnya. Selain itu Bilik Bersenyawa berusaha berperan sebagai wadah apresiasi karya kawan-kawan penggiat industri kreatif lokal.\n\nInstagram: @bilikbersenyawa\nTwitter: @bilikbersenyawa\nYoutube: Bilik Bersenyawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.585078,
+          -3.310425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Cata Odata",
+        "image": "https://www.instagram.com/cataodata/",
+        "url": "https://dl.airtable.com/.attachments/982759ad57806cf26a3ba0cf718f21c0/be3938b1/CataOdata.jpg",
+        "address": "Bali",
+        "description": "Berkeyakinan bahwa seni adalah sebuah ekspresi tanpa batas yang bisa dinikmati secair mungkin, Cata Odata mengadopsi pendekatan interdisipliner dalam merancang berbagai program dan kegiatannya.\n\nInstagram: @cataodata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.26827,
+          -8.478758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Forum Sudut Pandang",
+        "image": "https://sudutpandang.org/en/tentang/",
+        "url": "https://dl.airtable.com/.attachments/12274c52d1f958833840847dc0da1b92/57448da1/ForumSudutPandang.jpg",
+        "address": "Sulawesi Tengah",
+        "description": "Forum Sudut Pandang adalah organisasi nirlaba yang dikelola oleh seniman lintas disiplin di Kota Palu, Sulawesi Tengah. Menginisiasi beberapa program reguler diantaranya; lokakarya, pameran, pemutaran film, pertunjukan musik, dan pasar alternatif.\n\nInstagram: @forumsudutpandang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.874986,
+          -0.89139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Gardu House",
+        "image": "https://www.instagram.com/garduhouse/?hl=en",
+        "url": "https://dl.airtable.com/.attachments/e1aec4e0b546bf9bd2ea96d8df7978f4/1d16d7cc/GarduHouse.jpg",
+        "address": "JABODETABEK",
+        "description": "Ruang kolektif yang terfokus dalam pergerakan dan perkembangan graffiti Indonesia. Selama 10 tahun bergerak menjadi kanal komunikasi dan berkarya bagi komunitas.\n\nInstagram: @Garduhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.780508,
+          -6.244754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Gubuak Kopi",
+        "image": "https://gubuakkopi.id/",
+        "url": "https://dl.airtable.com/.attachments/78f0eae0b1d8a4a3668e88908762b7fa/4ae74ef3/GubuakKopi.jpg",
+        "address": "Sumatera Barat",
+        "description": "Komunitas Gubuak Kopi adalah sebuah kelompok studi budaya yang berbasis di Kota Solok, Sumatera Barat. Kelompok ini berdiri sejak 2011, bekerja memproduksi dan mendistribusikan pengetahuan literasi media melalui kegiatan-kegiatan kreatif, mengorganisir kolaborasi antara profesional (seniman, penulis, dan peneliti) dan warga, mengembangkan media lokal dan sistem pengarsipan alternatif, serta membangun ruang alternatif bagi pengembangan kesadaran budaya yang ramah lingkungan di lingkup lokal.\n\nInstagram: @gubuakkopi \nFacebook: Komunitas Gubuak Kopi \nYouTube: Komunitas Gubuak Kopi \nTwitter: @gubuakkopi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.63941,
+          -0.759069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Gudskul Ekosistem",
+        "image": "https://gudskul.art/en/home/",
+        "url": "https://dl.airtable.com/.attachments/ef12f9adc6b6c5aef8ac3697ee7ced0d/2d504691/GUDSKUL.jpg",
+        "address": "JABODETABEK",
+        "description": "Gudskul: studi kolektif dan ekosistem seni rupa kontemporer adalah ruang belajar untuk publik yang dibentuk oleh tiga kelompok seni di Jakarta: ruangrupa, Serrum, dan Grafis Huru Hara (GHH). Sejak awal 2000-an, ketiganya aktif bekerja dalam ranah seni rupa kontemporer dengan menggunakan model kerja kolektif dan kolaboratif. Pada 2015, kelompok-kelompok tersebut bersepakat untuk membentuk ekosistem bersama dengan tawaran nilai-nilai yang muncul dari proses berkolektif: kesetaraan, berbagi, solidaritas, pertemanan, dan kebersamaan. Ruang belajar ini berharap dapat menyebarkan semangat bagi individu agar menjadi inisiator pada kerja-kerja seni budaya di tengah masyarakat.\n\nInstagram: @gudskul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.815283,
+          -6.318576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "HONF",
+        "image": "https://honf.org/",
+        "url": "https://dl.airtable.com/.attachments/c019f4fccca3fef2e4beea24c27027c4/f1d5d18f/HONF.jpg",
+        "address": "Yogyakarta",
+        "description": "Sebuah kolektif yang berbasis pada seni, sains dan teknologi\n\nInstagram: @honf_lab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.343107,
+          -7.818965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Ilubiung",
+        "image": "https://www.instagram.com/ilubiung/?hl=en",
+        "url": "https://dl.airtable.com/.attachments/af17f35303d79a3ea1b8d5d07a54b469/99c0ea12/Ilubiung.jpg",
+        "address": "Jawa Barat",
+        "description": "Ilubiung adalah sebuah forum / organisasi yang berbasis di Bandung dan memiliki fokus terhadap pengolahan wacana dan ide bersama untuk bergerak dengan basis lintas disiplin berdasarkan keresahan-keresahan kolektif maupun individu dari kami, khususnya mengenai seni dan kehidupan masyarakat urban di Bandung.\n\nInstagram: @ilubiung\nYoutube: Ilubiung Project"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.622544,
+          -6.908288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Jatiwangi Art Factory",
+        "image": "https://jaf.art.blog/",
+        "url": "https://dl.airtable.com/.attachments/1d6256426500811a262d1221c8601838/d6121b4c/JatiwangiArtFactory.jpg",
+        "address": "Jawa Barat",
+        "description": "Didirikan pada 27 September 2005. Jatiwangi art factory adalah komunitas yang mengkaji bagaimana praktik seni dan budaya kontemporer dapat dikontekstualisasikan dengan kehidupan lokal pedesaan, baik bentuk maupun gagasan.\n\nInstagram: @jatiwangiartfactory\nYoutube: Jatiwangi Art Factory\nFacebook: Jatiwangi Art Factory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.254576,
+          -6.719963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Jendela Ide Indonesia",
+        "image": "http://jendelaide.org/",
+        "url": "https://dl.airtable.com/.attachments/54d3207fcdb95039e6a4eac2452c79d1/d9783aa3/JendelaIde.jpg",
+        "address": "Jawa Barat",
+        "description": "Jendela Ide  adalah sebuah lembaga budaya anak & kaum muda beragam  latar belakang ekonomi, sosial, budaya & politik, termasuk diantaranya anak-anak berkebutuhan khusus. Jendela Ide mengedepankan keterbukaan berpikir, kebebasan berpendapat dan berekspresi, toleransi, memahami prinsip demokrasi dan kesetaraan, serta memegang teguh nilai-nilai kemanusiaan dan peduli lingkungan.\n\nInstagram: @jendelaide.indonesia\nYoutube: Jendela Ide Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.624125,
+          -6.855986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Kampung Halaman",
+        "image": "http://www.kampunghalaman.org/",
+        "url": "https://dl.airtable.com/.attachments/abfd195a17e7b0f43712de9725644063/01be8e6b/KampungHalaman.jpg",
+        "address": "Yogyakarta",
+        "description": "Kami adalah organisasi nirlaba yang didirikan pada 2006 dan berbasis di Yogyakarta, Indonesia. Kami bekerja sama dengan berbagai rekan di seluruh Indonesia untuk memperkuat peran remaja dan anak muda di komunitasnya masing-masing melalui media berbasis komunitas yang dilakukan secara partisipatif dan kolaboratif. \n\nInstagram: @kampunghalamanfoundation \nFacebook: Yayasan Kampung Halaman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.41117,
+          -7.729334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Kampung Segart",
+        "image": "https://www.instagram.com/kampungsegart/",
+        "url": "https://dl.airtable.com/.attachments/c0cca89d8971f47db50b9cfbe8ca5a91/57df85f3/KampungSegart.jpg",
+        "address": "JABODETABEK",
+        "description": "Kampung Segart ialah sebuah komunitas yang dibentuk di....\n\nInstagram: @kampungsegart\nFacebook: KampungSegart Jakarta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83405,
+          -6.324041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Katakerja",
+        "image": "https://www.instagram.com/katakerja/",
+        "url": "https://dl.airtable.com/.attachments/572d71f4536ffee8443bec83e5eb8821/260b1943/Katakerja.jpg",
+        "address": "Sulawesi Selatan",
+        "description": "Katakerja adalah satu komunitas literasi yang fokus dalam pelayanan perpustakaan sekaligus ruang bersama untuk digunakan setiap orang menyelenggarakan diskusi, kelas, atau kegiatan lain yang segendang-sepenarian dengan tujuan katakerja.\n\nInstagram: @katakerja\nTwitter: @Katakerja65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.498411,
+          -5.138242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Kedutaan Besar Bekasi",
+        "image": "https://www.instagram.com/kedubesbekasi/?hl=en",
+        "url": "https://dl.airtable.com/.attachments/a7f2b22e904b425fad8cc85e08c85f2e/a57b68a5/KedubesBekasi.jpg",
+        "address": "JABODETABEK",
+        "description": "Inisiatif membuat komunitas kreatif di Bekasi pada pertengahan tahun 2013 dengan nama PDGD Creative, tak lain sebagai penghormatan terhadap Pondok Gede yang pernah menjadi mercusuar pergerakan musik underground sekitar. Seiring berjalannya waktu, momen bully Bekasi mulai viral, melihat beberapa kejadian sensitif dari fenomena tersebut membuat kami memutuskan untuk mengubah nama menjadi Kedutaan Besar Bekasi sebagai bentuk respon sederhana dan inisiasi yang direncanakan secara kolektif. \n\nInstagram: @kedubesbekasi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.944391,
+          -6.286164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Kelas Pagi Papua",
+        "image": "https://www.instagram.com/kelaspagipapua/?hl=en",
+        "url": "https://dl.airtable.com/.attachments/ac9f6004591f6e189fb7a48e4a628e75/da7d6958/KelasPagiPapua.jpg",
+        "address": "Papua",
+        "description": "Kelas Pagi Papua adalah sekolah Fotografi dan filem berbasis komunitas gratis. Kami percaya bahwa pendidikan adalah hak semua orang sentani Papua.\n\nInstagram: @kelaspagipapua\nFacebook: Kelas Pagi Papua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.523982,
+          -2.573232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Ketjil Bergerak",
+        "image": "https://www.instagram.com/ketjilbergerak/?hl=en",
+        "url": "https://dl.airtable.com/.attachments/3123b0f585add79bbac871d1fee4fdd5/2e9d64fd/KetjilBergerak.jpg",
+        "address": "Yogyakarta",
+        "description": "Lahir di tahun 2006, ketjilbergerak berevolusi menjadi ruang belajar bersama yang cair dan independen, menggunakan seni sebagai pendekatan utamanya. Rajin mengajak anak muda dari berbagai konteks untuk mempelajari masa lalu, masa kini, dan mempersiapkan masa depan, dengan terus belajar bersama secara dialogis dan dialektis, memperkuat posisi tawar anak muda dengan membentuk jaringan, juga memantabkan pengetahuan dengan metode ‘ngelmu iku kelakone kanthi laku’.\n\nInstagram: @ketjilbergerak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38246,
+          -7.801982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Kolektif Hysteria",
+        "image": "https://grobakhysteria.or.id/",
+        "url": "https://dl.airtable.com/.attachments/52b9ba8c7fd51f2d15bff1243c7a64ce/4a861fa7/GrobakHysteria.jpg",
+        "address": "Jawa Tengah",
+        "description": "Sebagai laboratorium bersama  diharapkan memberikan dampak perubahan dengan cara-cara kreatif, Hysteria memimpikan terwujudnya ekosisem seni dan kreatifitas yang sehat, menyejahterakan, dan berkelanjutan. Hysteria selain memproduksi artistik juga memfasilitasi pertemuan lintas disipliner dalam skala lokal hingga global untuk mencari trobosan-trobosan dalam persoalan kreatifitas, seni, komunitas, anak muda, dan isu kota.\n\nInstagram: @Grobakhysteria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.399236,
+          -7.006022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Komunitas Action",
+        "image": "http://komunitasaction.blogspot.com/",
+        "url": "https://dl.airtable.com/.attachments/8260908cb82b3168efe5e0716c5a6e20/2b5de175/KomunitasActionPapua.jpg",
+        "address": "Papua",
+        "description": "Kolektif yang bercita-cita mengubah, meningkatkan dan menciptakan aktivitas seni dan budaya di Papua.\n\nFacebook: KomunitasAction Papua\nYoutube: Komunitas Action"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.645357,
+          -2.589682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Komunitas KAHE",
+        "image": "https://www.facebook.com/komunitas.kahe/",
+        "url": "https://dl.airtable.com/.attachments/05a4956ad8ed1a6ec050af797bd322a3/41875329/KomunitasKahe.jpg",
+        "address": "Nusa Tenggara Timur",
+        "description": "Komunitas KAHE adalah kolektif seniman, peneliti, aktivis, penulis yang secara interdisipliner bekerja di bidang kesenian dan kebudayaan. Komunitas KAHE menempatkan kesenian sebagai teropong untuk melihat dan merefleksikan fenomena-fenomena yang terjadi di masyarakat, sekaligus menjadi media produksi, distribusi, dan dokumentasi pengetahuan. Komunitas KAHE bekerja dengan mindset sosial-politis dalam pengertian radikal, sebagai upaya untuk terlibat dalam isu-isu dan kegelisahan yang terjadi di tengah-tengah masyarakat. \n\nInstagram: @komunitas.kahe\nFacebook: FB: Komunitas KAHE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.252758,
+          -8.63319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Komunitas Pojok Denpasar",
+        "image": "https://www.instagram.com/the_pojoks/?hl=en",
+        "url": "https://dl.airtable.com/.attachments/7aef1e50ce111e6272cc791b787bd069/38e5aa32/KomunitasPojokDenpasar.jpg",
+        "address": "Bali",
+        "description": "Sebuah kolektif seni yang berusaha merdeka.\n\nInstagram: @the_pojoks & @baliyangbinal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.245621,
+          -8.646011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Komunitas Taboo",
+        "image": "https://www.instagram.com/studio_batur/?hl=en",
+        "url": "https://dl.airtable.com/.attachments/2ac1105dcab608b231af6d5b081370e0/4937c5ff/KomunitasTaboo.jpg",
+        "address": "Jawa Barat",
+        "description": "Komunitas taboo, merupakan komunitas pembelajaran kreativitas dengan metode pemahaman demokrasi dimana keutamaan dalam landasan pemikira bahwa \"hakekat ilmu tidak absolut terselubung\". Karena itulah pola pembelajarannya adalah mengakuisisi \"kemandegan\" ruang publik atau kampung sebagai ruang pembelajaran kreatif yang organik.\n\nFacebook: Kampung Kreatif Bandung \nYouTube: Kampung Kreatif Dago Pojok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.616204,
+          -6.871192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Komunitas Tikar Pandan",
+        "image": "https://www.facebook.com/people/Komunitas-Tikar-Pandan/100004300005934",
+        "url": "https://dl.airtable.com/.attachments/eef2a6a8c3d2479ca2161c4ab932d840/8c54618d/KomunitasTikarPandan.jpg",
+        "address": "Aceh",
+        "description": "Organisasi Masyarakat Sipil yang menjadi pusat kajian dan pemberdayaan masyarakat dalam bidang kebudayaan emansipatoris, termasuk sastra dan seni secara umum, untuk mendorong terciptanya tatanan masyarakat yang berkeadilan sosial di Provinsi Aceh.\n\nFacebook: Komunitas Tikar Pandan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.301628,
+          5.526444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Kunci Study Forum & Collective",
+        "image": "http://kunci.or.id/",
+        "url": "https://dl.airtable.com/.attachments/b63637af5e68736fe54797a0a8864aff/5826369e/KUNCI.jpg",
+        "address": "Yogyakarta",
+        "description": "KUNCI bereksperimen dengan metode produksi dan berbagi pengetahuan melalui aktivitas belajar bersama-sama yang dibentuk oleh persilangan antara kerja-kerja afektif, manual, dan intelektual. Sejak didirikan pada 1999 di Yogyakarta, KUNCI terus bertransformasi dalam struktur, cara, dan wahana kerjanya.\n\nInstagram: @cikunci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.364952,
+          -7.816991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "LabTanya",
+        "image": "https://labtanya.wixsite.com/lab-tanya/about",
+        "url": "https://dl.airtable.com/.attachments/006f19cf0d16bbe6df976d4b25cdc9a7/c3fe797e/Labtanya.jpg",
+        "address": "JABODETABEK",
+        "description": "Studio desain sosial dan ekologis yang mengembangkan berbagai metode riset dan eksperimen bersama warga urban.\n\nInstagram: @labtanya\nFacebook: LabTanya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.745758,
+          -6.270953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Ladang Rupa",
+        "image": "http://ladangrupa.wordpress.com/",
+        "url": "https://dl.airtable.com/.attachments/8d846aa81c1997e87b08f7de8e62937c/d0479eb4/LadangRupa.jpg",
+        "address": "Sumatera Barat",
+        "description": "Ladang Rupa adalah sebuah forum yang berfokus pada pengembangan edukasi seni dan budaya. Nilai yang ditawarkan Ladang Rupa adalah alternatif pendidikan seni yang kritis. Ladang Rupa mempertemukan penggiat berbagai bidang kebudayaan dan karya seni dengan masyarakat dalam ruang pembelajaran yang dapat berbentuk kelas, galeri, bioskop alternatif, dan forum diskusi.\n\nInstagram: @ladangrupa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.378435,
+          -0.301621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Lakoat Kujawas",
+        "image": "https://www.instagram.com/lakoat.kujawas/?hl=en",
+        "url": "https://dl.airtable.com/.attachments/c4670376a7c4d3d1976c3415bc15a0a5/8c1ccdbb/LakoatKujawas.jpg",
+        "address": "Nusa Tenggara Timur",
+        "description": "Kolektif kewirausahaan sosial anak muda di bidang seni dan budaya. \nAlamat: Jalan Kampung Baru, No. 2 Desa Taeftob Mollo Utara, Timor Tengah Selatan, NTT.\n\nInstagram: @lakoat.kujawas\nFacebook: Lakoat.Kujawas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.279817,
+          -9.862452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Lifepatch",
+        "image": "https://lifepatch.org/",
+        "url": "https://dl.airtable.com/.attachments/92922c57ecfdc15c1ba4d1072803e2aa/7b73500e/Lifepatch.jpg",
+        "address": "Yogyakarta",
+        "description": "Adalah sebuah organisasi lintas-disiplin berbasis komunitas yang terbentuk pada 26 Maret 2012. Berpijak pada inisiatif warga dalam seni, sains, dan teknologi, Lifepatch mengajak para anggota dan siapapun yang terlibat dalam aktivitasnya untuk meneliti, menggali, dan mengembangkan kehadiran teknologi, sumber daya alam, dan sumber daya manusia di daerah sekitarnya.\n\nInstagram: @lfptch\nFacebook: lifepatch\nYoutube: Lifepatch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37708,
+          -7.795003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Mes56",
+        "image": "http://mes56.com/",
+        "url": "https://dl.airtable.com/.attachments/e0f57f1e8f6075fd1cb5a49c845df959/6b9331ed/Mes56.jpg",
+        "address": "Yogyakarta",
+        "description": "Kolektif seniman yang bekerja secara kooperatif bersama komunitas dan jejaringnya dalam mengelola sebuah rumah yang digunakan sebagai studio kerja, kelas belajar, ruang bermain dan hunian. Dibentuk pada tahun 2002 dengan pendanaan mandiri, komunitas ini bertumpu pada pengembangan fotografi dan seni kontemporer yang beririsan dengan disiplin ilmu lainnya secara kritis dan kontekstual demi terwujudnya masyarakat yang terbuka, kreatif dan mandiri.\n\nInstagram: @ruangmes56\nFacebook: Ruang MES 56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.366582,
+          -7.820913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Omah Balong",
+        "image": "https://www.instagram.com/omahbalong/",
+        "url": "https://dl.airtable.com/.attachments/42bfe8e6cf836e08f64b52306839a503/c28cb261/OmahBalong.jpg",
+        "address": "Jawa Barat",
+        "description": "Adalah sebuah rumah kecil pinggir sawah yang mempunyai harapan kecil, untuk menjadi sarana tukar pikiran, edukasi,dan 'buang limbah' teman-teman kreatif Kuningan.\n\nInstagram: @omahbalong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.515738,
+          -6.979751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Omnispace",
+        "image": "https://www.instagram.com/omni.space/",
+        "url": "https://dl.airtable.com/.attachments/09229b9792b372334908745bd6630663/3e5c72ee/Omnispace.jpg",
+        "address": "Jawa Barat",
+        "description": "Omnispace didirikan pada tahun tanggal 16 April 2015. Berlokasi di lantai 3 toko musik, band / musisi dan toko buku Omuniuum. Omnispace lahir dari ide untuk menciptakan ruang terbuka dan organik untuk bereksperimen dan menjelajahi berbagai media dan ide dalam berkarya dan terbuka untuk kolaborasi publik.\n\nInstagram: @omni.space \nFacebook: Omnispace ID"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.604504,
+          -6.87448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Omuniuum",
+        "image": "https://omuniuum.net/",
+        "url": "https://dl.airtable.com/.attachments/9821916061a050f01998372a042bcc46/3d73cbbd/Omuniuum.jpg",
+        "address": "Jawa Barat",
+        "description": "Omuniuum adalah toko kecil yang terletak di Ciumbuleuit 151 B lantai 2 Bandung, tepat di seberang kampus Universitas Katolik Parahiyangan atau Unpar. Mengusung konsep ‚ÄúSmall Shop Of Reading and Listening‚Äù, Omuniuum yang dibuat oleh orang-orang yang punya kecintaan terhadap buku dan musik, sejak tahun 2007 memutuskan untuk menjadikan Omuniuum sebagai toko buku sekaligus distribution outlet atau distro dari produk dan karya band independen dari berbagai kota di Indonesia seperti Seringai, Efek Rumah Kaca, Komunal, Rajasinga, Sigmun, Bottlesmoker, Melancholic Bitch, Barasuara Navicula dan lain sebagainya.\n\nInstagram: @omuniuum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.604272,
+          -6.873601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Pasirputih",
+        "image": "https://pasirputih.id/",
+        "url": "https://dl.airtable.com/.attachments/343ac6157776e95a6bf4bd8bfc5ff27b/75c2c997/PasirPutih.jpg",
+        "address": "Nusa Tenggara Barat",
+        "description": "Pasirputih adalah sebuah organisasi nirlaba egaliter berbasis di Kecamatan Pemenang, Lombok Utara, Nusa Tenggara Barat, didirikan oleh pegiat kultural, aktivis media, dan seniman sejak tahun 2010. Organisasi ini bergerak dalam bidang pemberdayaan media berbasis komunitas yang menjadi ruang produksi media alternatif dan pusat data yang dikelola oleh warga demi pengembangan pengetahuan dan kearifan budaya lokal. Organisasi ini memanfaatkan bidang kesenian sebagai metode dan pendekatan eksperimental, baik di ranah estetika dan artistik, maupun medan sosial. Selain itu, Pasirputih kerap menyelenggarakan beragam penelitian dan pengarsipan dalam rangka memproduksi materi tekstual dan audiovisual untuk didistribusikan secara terbuka bagi publik.\n\nInstagram: @pasirputih_pemenang\nFacebook: Yayasan Pasirputih"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.104103,
+          -8.377053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Rodha Among Karsa (Rakarsa)",
+        "image": "https://www.instagram.com/ra.kar.sa",
+        "url": "https://dl.airtable.com/.attachments/25ac1aed23de27f1fb7c5fa97576b4af/85b307c7/Rakarsa.jpg",
+        "address": "Jawa Barat",
+        "description": "Rakarsa mendukung produksi artistik dan kultural yang berkelanjutan. Rakarsa mengusahakan kegiatan-kegiatan yang mendukung pengelolaan seni rupa yang mengedepankan aspek praksis untuk ekosistem seni rupa yang lebih baik.\n\nInstagram: @ra.kar.sa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.650938,
+          -6.881472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Ruang Alternatif",
+        "image": "https://linktr.ee/ruangalternatif",
+        "url": "https://dl.airtable.com/.attachments/5e753c9355947f76223c7eb417bbcc83/e96025cc/RuangAlternatif.jpg",
+        "address": "Jawa Barat",
+        "description": "Sebuah ruang berkegiatan kultur pop baik musik, video maupun seni pertunjukan.\n\nInstagram: @ruang.alt\nFacebook: Ruang Alternatif\nYoutube: Ruang Alternatif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.573054,
+          -6.753033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Rumah Budaya Sikukeluang",
+        "image": "https://www.instagram.com/sikukeluang/",
+        "url": "https://dl.airtable.com/.attachments/5d81b5498922b10bf5941ababbccd3bf/0f67d968/rumahbudayasikukeluang.jpg",
+        "address": "Riau",
+        "description": "Sebuah rumah tempat berkumpul, bermain, berkreatifitas lintas budaya dan seni.\n\nInstagram: @sikukeluang \nYoutube: Sikukeluang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.465403,
+          0.515854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Rumah Mesra",
+        "image": "https://rumahmesra.id/",
+        "url": "https://dl.airtable.com/.attachments/260eca7494b130d18c72c760e8a76ed5/550dc153/RumahMesra.jpg",
+        "address": "Jawa Barat",
+        "description": "Rumah Mesra hadir dengan konsep idea hub. Seperti konsepnya, kami ingin menjadikan tempat ini sebagai tempat lalu-lalang informasi dari berbagai komunitas dan kreator lokal untuk membentuk ekosistem kreatif yang sehat karena kami berfokus pada pengembangan gagasan dan realisasinya. Selain itu, kami juga hadir sebagai penyedia kebutuhan venue untuk segala kebutuhan acara. Untuk mendukung semua itu, Rumah Mesra menaungi mesinsuara, Artmor Studio, Kabar Baik (F&B).\n\nInstagram: @rumahmesra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.929093,
+          -6.916832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Rumah Sanur",
+        "image": "https://rumahsanur.com/",
+        "url": "https://dl.airtable.com/.attachments/d70bd76ac73bbf164e08092cd23e175e/e5e5857e/RumahSanur.jpg",
+        "address": "Bali",
+        "description": "Rumah Sanur adalah sebuah sentra bertemu, berjejaring, berkreasi, dan berkolaborasi bagi pegiat ekonomi kreatif. Terdapat 3 panggung pertunjukan berbagai ukuran untuk pertunjukan kesenian serta diskusi dan seminar, ruang-ruang khusus untuk lokakarya dan rapat kecil-menengah, co-working space, juga kedai kopi dan restoran.\n\nInstagram: @rumahsanur\nFacebook: Rumah Sanur - Creative Hub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.258762,
+          -8.703799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Sandwich Attack",
+        "image": "https://www.instagram.com/sandwichattack_/?hl=en",
+        "url": "https://dl.airtable.com/.attachments/9b494f7ed28b82c1da571bfea7500e1b/f46c6b0f/SandwichAttack.jpg",
+        "address": "JABODETABEK",
+        "description": "Sandwich Attack adalah ruang alternatif bagi teman-teman di Tangerang. Kami tidak membatasi apapun kegiatan di tempat kami, namun tetap melalui proses kurasi.\n\nInstagram: @sandwichattack"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.633036,
+          -6.178675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Sanggar Anak Akar",
+        "image": "https://www.instagram.com/sanggar.anak.akar/?hl=en",
+        "url": "https://dl.airtable.com/.attachments/d32df59753b7ed11b809f386c3b71a58/2353e152/SanggarAkar.jpg",
+        "address": "JABODETABEK",
+        "description": "Kolektif yang berfokus pada pendidikan dan perlindungan anak dengan mengambil model pendidikan Sekolah Otonom berbasis komunitas (boarding school).\n\nFacebook: SanggarAnakAkarID\nInstagram: @sanggar.anak.akar\nYoutube: Sanggar Anak Akar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.905919,
+          -6.248238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Serbuk Kayu",
+        "image": "http://serbukayu.org/",
+        "url": "https://dl.airtable.com/.attachments/b49112332b396a84e9e062b948fc8e75/7f29c59d/Serbukayu.jpg",
+        "address": "Jawa Timur",
+        "description": "Serbuk kayu adalah komunitas seni lintas disiplin yang mengakar di Surabaya. memiliki misi untuk mendistribusikan seni sebagai pengetahuan.\n\nInstagram: @serbukayu \nFacebook: Serbuk Kayu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.64948,
+          -7.316672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Siku Ruang Terpadu",
+        "image": "http://sikuterpadu.org/",
+        "url": "https://dl.airtable.com/.attachments/1daec97983ea9dcfc0879cbbb8900f4f/506a3c95/SikuRuangTerpadu.jpg",
+        "address": "Sulawesi Selatan",
+        "description": "Ruang terpadu yang mewadahi aktivitas seni dan kebudayaan kontemporer di Makassar, Sulawesi Selatan, dan Indonesia Timur. Upaya terpadu ini diinisiasi oleh empat kelompok: Bonfire, Jalur Timur, Nara, dan Ritus. SIKU ingin menajamkan iklim belajar bersama dan berbagi pengetahuan berdasarkan pengalaman dengan pendekatan lintas disiplin. Berspekulasi pada teori dan praktek untuk membuka kemungkinan baru dalam membaca situasi terkini sekaligus membuka jejaring pertemanan dengan kota-kota lainnya. Bereksperimen pada laboratorium multimedia berbasis riset dan pengembangan untuk merespon singgungan antara seni dan teknologi. Bermain-main dalam dinamika seni grafis dan street art tanpa melupakan relevansi dan konteks kehadirannya pada ruang-ruang kota.\n\nInstagram: @sikuterpadu\nFacebook: Siku Ruang Terpadu\nTwitter: SikuTerpadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.428488,
+          -5.170089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "SimpaSio Institute",
+        "image": "https://www.instagram.com/simpasioinstitute/",
+        "url": "https://dl.airtable.com/.attachments/11b4992922eb53c92a550421f27a3d27/752e14a8/SimpasioInstitute.jpg",
+        "address": "Nusa Tenggara Timur",
+        "description": "SimpaSio Institute merupakan lembaga arsip dan kajian sosial budaya. Lembaga ini terdiri dari divisi arsip dan dokumentasi, kajian dan pengembangan, pelayanan publik dan publikasi, ruang kreasi, perpustakaan dan taman baca.\n\nInstagram: @simpasioinstitute\nFacebook: Simpa Sio Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.016587,
+          -8.314788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Sinau Art",
+        "image": "https://www.instagram.com/sinauart/?hl=en",
+        "url": "https://dl.airtable.com/.attachments/06cda749f4efe101e886f000263f5422/6a84bf29/SinauArt.jpg",
+        "address": "Jawa Barat",
+        "description": "Sinau Art (sebelumnya Gardu Unik) adalah lembaga yang bergerak di bidang pendidikan, seni budaya, dan lingkungan hidup, yang berdiri sejak 2006. Sinau art memiliki sumber daya manusia yang mampu melahirkan instruktur, para seniman, dan aktivis seni budaya, serta kader lingkungan hidup. dan lembaga pendidikan non formal pertama di kota Cirebon berbasis seni dan budaya.\n\nInstagram: @sinauart\nFacebook: Sinau Art"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.554613,
+          -6.756711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Sindikat Milenial!",
+        "image": "https://www.instagram.com/sindikatmilenial/?hl=en",
+        "url": "https://dl.airtable.com/.attachments/4e4249e2df395e0d6e8e77b6b1365e42/1c7ad88d/SindikatMilenial.jpg",
+        "address": "Kalimantan Barat",
+        "description": "Sindikat Milenial adalah wadah inisiatif seni lintas disiplin yang tidak terstruktur secara khusus, dibuat sebagai sebuah forum, media, dan kerja kolaboratif dalam membangun ekosistem seni di Pontianak.\n\nInstagram: @sindikatmilenial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.354981,
+          -0.04604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "SkolMus (Sekolah Multimedia Untuk Semua)",
+        "image": "https://sekolahmusa.org/",
+        "url": "https://dl.airtable.com/.attachments/a980a7cdae83821259c7e86867075563/32a12ec6/Skolmus.jpg",
+        "address": "Nusa Tenggara Timur",
+        "description": "SkolMus adalah sebuah komunitas dan wirausaha sosial dengan visi mendorong perubahan lewat multimedia. Dengan misi Terus Berbagi Cahaya, SkolMus berfokus pada gerakan edukasi fotografi, videografi, dan revitalisasi budaya melalui pengarsipan visual serta kolaborasi lintas disiplin ilmu.\n\nInstagram: @SkolMus\nFacebook: Perkumpulan SkolMus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.597929,
+          -10.165916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Studio Batur",
+        "image": "https://studio-batur.business.site/",
+        "url": "https://dl.airtable.com/.attachments/fe50637e4a6866ccb1890d8e94bb77b6/b5f6de70/StudioBatur.jpg",
+        "address": "Jawa Barat",
+        "description": "Instagram: @studio_batur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.632424,
+          -6.85737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Taring Padi",
+        "image": "http://www.taringpadi.com/",
+        "url": "https://dl.airtable.com/.attachments/98cc3cf240981f485a4eca25c0a81b56/98e768d9/TaringPadi.jpg",
+        "address": "Yogyakarta",
+        "description": "Taring Padi menggunakan seni sebagai alat untuk menyampaikan gagasan, seni bisa digunakan sebagai media pendidikan untuk semua. Taring Padi secara teratur mengadakan pertemuan untuk membahas situasi nasional dan internasional. Taring Padi berupaya mengembangkan seni dan budaya dengan menggali keinginan dan kebutuhan rakyat dengan mengutamakan; keterbukaan, kesejahteran sosial, kedaulatan rakyat, keadilan antar generasi, demokrasi, penghargaan atas hak asasi manusia tanpa mengesampingkan kewajiban, perspektif gender, reformasi hubungan global serta pengelolaan lingkungan hidup yang baik.\n\nInstagram: @taring_padi\nFacebook: Taring Padi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.338234,
+          -7.83482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Trotoart",
+        "image": "https://www.instagram.com/trotoart_community/",
+        "url": "https://dl.airtable.com/.attachments/f529757d8452b56a92c59d940a39cf8a/d6e3ae96/Trotoart.jpg",
+        "address": "JABODETABEK",
+        "description": "Menyatukan ide pikiran dan cara pandang berkesenian dengan mendirikan TROTOARt. Perkumpulan ini bertujuan untuk mendorong cara pandang berkesenian dalam masyarakat yang dapat melayani.\n\nInstagram: @trotoart_community\nFacebook: trotoart.jakarta\nYoutube: Trotoart Community"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797586,
+          -6.132262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "TUDGAM",
+        "image": "https://www.instagram.com/tud_gam/?hl=en",
+        "url": "https://dl.airtable.com/.attachments/ad3028a9945e6c4f59e00333a63b1694/a5c5af2f/Tudgam.jpg",
+        "address": "Jawa Barat",
+        "description": "Tudgam adalah kelompok seniman lintas disiplin yang bekerja dalam lingkup pendidikan dan memfokuskan pada kajian masyarakat melalui kerja kratif berupa workshop, dokumentasi dan penelitian, pameran serta pertunjukan.\n\nInstagram: @tud_gam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.473637,
+          -6.98281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "Waft Lab",
+        "image": "http://waft-lab.com/",
+        "url": "https://dl.airtable.com/.attachments/65dba9f44b6fcbd2384189d136c26c98/7a15625c/WAFT.jpg",
+        "address": "Jawa Timur",
+        "description": "Kolektif yang berfokus pada sub kultur dan teknologi\n\nInstagram: @Waftlab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.652835,
+          -7.299569
+        ]
+      }
+    }
+  ]
+}

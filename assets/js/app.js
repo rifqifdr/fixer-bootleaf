@@ -155,14 +155,20 @@ var theaters = L.geoJson(null, {
   },
   onEachFeature: function (feature, layer) {
     if (feature.properties) {
-      var content = "<a class='url-break' href='" + feature.properties.web + "'target='_blank' " + feature.properties.web + " > Website</a>";
+      var content_1 = "<a class='url-break' href='" + feature.properties.web + "'target='_blank' " + feature.properties.web + " > Website</a>";
+      var content_2 = "<a class='url-break' href='" + feature.properties.instagram + "'target='_blank' " + feature.properties.instagram + " > Instagram</a>";
+      var content_3 = "<a class='url-break' href='" + feature.properties.facebook + "'target='_blank' " + feature.properties.facebook + " > Facebook</a>";
+      var content_4 = "<a class='url-break' href='" + feature.properties.youtube + "'target='_blank' " + feature.properties.youtube + " > Youtube</a>";
       layer.on({
         click: function (e) {
           $("#feature-title").html(feature.properties.title);
           $("#descriptions").html(feature.properties.descriptions);
           $("#logo-collective").attr("src",feature.properties.url);
           $("#instagram").attr("href",feature.properties.instagram);
-          $("#feature-info").html(content);
+          $("#feature-info").html(content_1);
+          $("#feature-info-instagram").html(content_2);
+          $("#feature-info-facebook").html(content_3);
+          $("#feature-info-youtube").html(content_4);
           $("#featureModal").modal("show");
           highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStyle));
         }
@@ -251,7 +257,7 @@ var attributionControl = L.control({
 });
 attributionControl.onAdd = function (map) {
   var div = L.DomUtil.create("div", "leaflet-control-attribution");
-  div.innerHTML = "<span class='hidden-xs'>Developed by <a href='http://rifqifadh.xyz'>rifqifadh.xyz</a> | </span><a href='#' onclick='$(\"#attributionModal\").modal(\"show\"); return false;'>Attribution</a>";
+  div.innerHTML = "<span class='hidden-xs'>Developed by <a href='http://rifqifadh.xyz'>xxxxxx</a> | </span><a href='#' onclick='$(\"#attributionModal\").modal(\"show\"); return false;'>Attribution</a>";
   return div;
 };
 
