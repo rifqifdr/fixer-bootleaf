@@ -155,7 +155,7 @@ var theaters = L.geoJson(null, {
   },
   onEachFeature: function (feature, layer) {
     if (feature.properties) {
-      var content_1 = "<a class='url-break' href='" + feature.properties.web + "'target='_blank' " + feature.properties.web + " > Website</a>";
+      var content_1 = "<a class='url-break' href='" + feature.properties.web + "'target='_blank' " + feature.properties.web + " >Website</a>";
       var content_2 = "<a class='url-break' href='" + feature.properties.instagram + "'target='_blank' " + feature.properties.instagram + " > Instagram</a>";
       var content_3 = "<a class='url-break' href='" + feature.properties.facebook + "'target='_blank' " + feature.properties.facebook + " > Facebook</a>";
       var content_4 = "<a class='url-break' href='" + feature.properties.youtube + "'target='_blank' " + feature.properties.youtube + " > Youtube</a>";

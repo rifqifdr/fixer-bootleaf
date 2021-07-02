@@ -11,7 +11,7 @@ input[type="radio"], input[type="checkbox"] {
 }
 #sidebar {
   display: block;
-  width: 250px;
+  width: 300px;
   height: 100%;
   max-width: 100%;
   float: left;
@@ -19,7 +19,10 @@ input[type="radio"], input[type="checkbox"] {
 #map {
   width: auto;
   height: 100%;
-  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  border-left-style: solid;
+  border-left-width: 2px;
+  box-shadow: #ddd;
+  border-left-color: rgb(206, 206, 206);
 }
 #loading {
   position: absolute;
@@ -50,7 +53,7 @@ input[type="radio"], input[type="checkbox"] {
   color: #FFFFFF;
 }
 .panel-heading{
-  width: 250px;
+  width: auto;
   padding-top: 15px;
   padding-right: 15px;
   padding-bottom: 15px;
@@ -60,7 +63,7 @@ input[type="radio"], input[type="checkbox"] {
   visibility: hidden;
 }
 .panel-body{
-  width: 250px;
+  width: auto;
 }
 .feature-row {
   cursor: pointer;
@@ -211,6 +214,7 @@ img {
 .modal-content {
   width: 340px;
   margin: 0% auto;
+  border-radius: 2px;
 }
 .modal-header {
   min-height: 16.43px;
@@ -235,6 +239,10 @@ img {
   font-weight: 600;
   font-size:small;
 }
+
+.bar-side:hover {
+  background-color: rgb(245, 206, 195);
+}
 .leaflet-control-layers {
   visibility: hidden;
 }
@@ -245,6 +253,7 @@ img {
 .btn {
   background-color: tomato;
   color: white;
+  border-radius: 2px;
 }
 .col-xs-8 {
   width: 100%;
