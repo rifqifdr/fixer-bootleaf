@@ -155,10 +155,10 @@ var theaters = L.geoJson(null, {
   },
   onEachFeature: function (feature, layer) {
     if (feature.properties) {
-      var content_1 = "<a class='url-break' href='" + feature.properties.web + "'target='_blank' " + feature.properties.web + " >Website</a>";
-      var content_2 = "<a class='url-break' href='" + feature.properties.instagram + "'target='_blank' " + feature.properties.instagram + " > Instagram</a>";
-      var content_3 = "<a class='url-break' href='" + feature.properties.facebook + "'target='_blank' " + feature.properties.facebook + " > Facebook</a>";
-      var content_4 = "<a class='url-break' href='" + feature.properties.youtube + "'target='_blank' " + feature.properties.youtube + " > Youtube</a>";
+      var content_1 = !feature.properties.web ? null : "<a class='url-break' href='" + feature.properties.web + "'target='_blank' " + feature.properties.web + " >Website</a>";
+      var content_2 = !feature.properties.instagram ? null : "<a class='url-break' href='" + feature.properties.instagram + "'target='_blank' " + feature.properties.instagram + " > Instagram</a>";
+      var content_3 = !feature.properties.facebook ? null : "<a class='url-break' href='" + feature.properties.facebook + "'target='_blank' " + feature.properties.facebook + " > Facebook</a>";
+      var content_4 = !feature.properties.youtube ? null : "<a class='url-break' href='" + feature.properties.youtube + "'target='_blank' " + feature.properties.youtube + " > Youtube</a>";
       layer.on({
         click: function (e) {
           $("#feature-title").html(feature.properties.title);
@@ -339,99 +339,7 @@ $("#featureModal").on("hidden.bs.modal", function (e) {
 });
 
 /* Typeahead search functionality */
-$(document).one("ajaxStop", function () {
-  $("#loading").hide();
-  sizeLayerControl();
 
-  var theatersBH = new Bloodhound({
-    name: "Theaters",
-    datumTokenizer: function (d) {
-      return Bloodhound.tokenizers.whitespace(d.title);
-    },
-    queryTokenizer: Bloodhound.tokenizers.whitespace,
-    local: theaterSearch,
-    limit: 10
-  });
-
-  var geonamesBH = new Bloodhound({
-    name: "GeoNames",
-    datumTokenizer: function (d) {
-      return Bloodhound.tokenizers.whitespace(d.name);
-    },
-    queryTokenizer: Bloodhound.tokenizers.whitespace,
-    remote: {
-      url: "http://api.geonames.org/searchJSON?username=bootleaf&featureClass=P&maxRows=5&countryCode=US&name_startsWith=%QUERY",
-      filter: function (data) {
-        return $.map(data.geonames, function (result) {
-          return {
-            name: result.name + ", " + result.adminCode1,
-            lat: result.lat,
-            lng: result.lng,
-            source: "GeoNames"
-          };
-        });
-      },
-      ajax: {
-        beforeSend: function (jqXhr, settings) {
-          settings.url += "&east=" + map.getBounds().getEast() + "&west=" + map.getBounds().getWest() + "&north=" + map.getBounds().getNorth() + "&south=" + map.getBounds().getSouth();
-          $("#searchicon").removeClass("fa-search").addClass("fa-refresh fa-spin");
-        },
-        complete: function (jqXHR, status) {
-          $('#searchicon').removeClass("fa-refresh fa-spin").addClass("fa-search");
-        }
-      }
-    },
-    limit: 10
-  });
-  theatersBH.initialize();
-  geonamesBH.initialize();
-
-  /* instantiate the typeahead UI */
-  $("#searchbox").typeahead({
-    minLength: 3,
-    highlight: true,
-    hint: false
-  }, {
-    name: "Theaters",
-    displayKey: "name",
-    source: theatersBH.ttAdapter(),
-    templates: {
-      header: "<h4 class='typeahead-header'><img src='assets/img/map-pin-tomato.svg' width='24' height='28'>&nbsp;Theaters</h4>",
-      suggestion: Handlebars.compile(["{{name}}<br>&nbsp;<small>{{address}}</small>"].join(""))
-    }
-  }, {
-    name: "GeoNames",
-    displayKey: "name",
-    source: geonamesBH.ttAdapter(),
-    templates: {
-      header: "<h4 class='typeahead-header'><img src='assets/img/globe.png' width='25' height='25'>&nbsp;GeoNames</h4>"
-    }
-  }).on("typeahead:selected", function (obj, datum) {
-    if (datum.source === "Theaters") {
-      if (!map.hasLayer(theaterLayer)) {
-        map.addLayer(theaterLayer);
-      }
-      map.setView([datum.lat, datum.lng], 17);
-      if (map._layers[datum.id]) {
-        map._layers[datum.id].fire("click");
-      }
-    }
-    if (datum.source === "GeoNames") {
-      map.setView([datum.lat, datum.lng], 14);
-    }
-    if ($(".navbar-collapse").height() > 50) {
-      $(".navbar-collapse").collapse("hide");
-    }
-  }).on("typeahead:opened", function () {
-    $(".navbar-collapse.in").css("max-height", $(document).height() - $(".navbar-header").height());
-    $(".navbar-collapse.in").css("height", $(document).height() - $(".navbar-header").height());
-  }).on("typeahead:closed", function () {
-    $(".navbar-collapse.in").css("max-height", "");
-    $(".navbar-collapse.in").css("height", "");
-  });
-  $(".twitter-typeahead").css("position", "static");
-  $(".twitter-typeahead").css("display", "block");
-});
 
 // Leaflet patch to make layer control scrollable on touch browsers
 var container = $(".leaflet-control-layers")[0];

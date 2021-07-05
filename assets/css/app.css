@@ -208,14 +208,20 @@ img {
 }
 .maphub-popup-img-element {
   display: flex;
-  margin-left: 15px;
-  margin-right: 15px;
+  margin: 0 auto;
 }
 .modal-content {
-  width: 340px;
+  width: 480px;
   margin: 0% auto;
   border-radius: 2px;
 }
+
+@media screen and (max-width: 480px) {
+  .modal-content {
+    width: 360px; 
+  }
+}
+
 .modal-header {
   min-height: 16.43px;
   padding: 15px;
